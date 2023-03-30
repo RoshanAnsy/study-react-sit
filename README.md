@@ -1,5 +1,5 @@
 # study-react-sit
-Multiple different course available here...
+Multiple different courses are  available here...
 
 <sub>>> It has multiple section for different courses ,just by clicking on different icon you find the 
 different course according to your desire course</sub>
